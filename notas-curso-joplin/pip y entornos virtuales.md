@@ -292,10 +292,11 @@ Instalar las dependencias necesarias para contribuir más rápido en proyectos
 
 </details>
 
-***
+
 
 </details>
 
+***
 
 <details markdown="2"><summary><span style="color: #bb5599">Lecciones practicas</span> </summary>
 
@@ -426,10 +427,10 @@ async def main():
 
 </details>
 
-***
 
 </details>
 
+***
 
 <details markdown="2"><summary><span style="color: #bb5599">Docker</span> </summary>
 
