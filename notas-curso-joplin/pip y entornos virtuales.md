@@ -1,109 +1,13 @@
 # pip y entornos virtuales
 
 
-<details markdown="1"><summary>🎯 Objetivos de lectura</summary>
-
-- 🌟 Tipo de lectura: practica
-- 🌟 Objetivo: aprender a crear entornos virtuales con python en los que aislar proyectos
-- 🌟 Meta de tiempo: # 13 horas
-	- Opcion 1: 13 dias = 1 horas por dia
-	- Opcion 2: 7 dias = 2 horas por dia
-- 🌟 Bloques: # Bloques = # secciones
-
-</details>
-
-* * *
-
-
-<details markdown="1"><summary>❓Preguntas iniciales</summary>
-
-- Como crear entornos virtuales
-- pregunta 2
-
-</details>
-
-* * *
-
-<details markdown="1"><summary> 📕 ElCurso en un párrafo o idea</summary>
-
-Texto
-
-</details>
-
-* * *
-
-<details markdown="1"><summary> ✅ Observaciones o ideas clave del libro/curso</summary>
-
-Texto
-
-</details>
-
-
-* * *
-
-<details markdown="1"><summary> 🧠 Guia de repaso (preguntas)</summary>
-
-|Nombre del tema|Unidad|Estudiado|Repaso 1|Repaso 2|Repaso 3|Retencion 1/5|Preguntas hechas por tema|completado|
-|----|:----:|:----:|:----:|:----:|:----:|:----:|:----:|----:|
-|Tema 1|1| [x] | [x] | [x] | [x] |5|10| [x] |
-|Tema 2|1| [x] | [x] | [x] | [ ] |3|15| [ ] |
-|Tema 3|2| [x] | [x] | [ ] | [ ] |2|8| [ ] |
-
-
-## 
-
-<details markdown="1"><summary>Pregunta 1</summary>
-</details>
-
-<details markdown="1"><summary>Pregunta 2</summary>
-</details>
-
-</details>
-
-</details>
-
-***
-
-<details markdown="1"><summary> 📑 Indice curso</summary>
-
-Texto
-
-</details>
-
-* * *
-
-
-
-
-
 ## Resumen del Curso
-
-<details markdown="2">
-
-<summary>General</summary>
-
-- Que dice el libro a nivel general?-
-
-
-* * *
-
-- Como se desarrolla? cuales son los argumentos e ideas clave?
-
-* * *
-
-- Explicacion y sintesis
-
-* * *
-
-- Que no se entendio?
-
-* * *
 
 </details>
 
 <details markdown="3"><summary><span style="background-color: #ffe7e0">Link a git hub</span></summary>
 
-
+***
 
 <span style="color: #3388bb">
 
