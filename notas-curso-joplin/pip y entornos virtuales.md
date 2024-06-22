@@ -134,6 +134,8 @@ pip3 freeze
 
 </details>
 
+***
+
 <details markdown="3"><summary><span style="background-color: #ffe7e0">Graficas en python con pip</span></summary>
 
 
@@ -157,16 +159,12 @@ pip3 freeze
 💥 **Los programas pueden chocar:** Muchos proyectos necesitan librerias diferentes y diferentes versiones de estas librerias, tener librerias instaladas de forma general causa que hayan **conflictos entre ellas** y. **generen errores**
 
 
-
-![Screenshot 2024-01-01 at 12.54.00 PM.png](../_resources/Screenshot%202024-01-01%20at%2012.54.00 PM.png)
-
 **Muchos proyectos usan diferentes versiones de la misma libreria:** Matplotlib es una libreria ampliamente usada que tiene versiones de la misma 
 
-![Screenshot 2024-01-01 at 1.04.05 PM.png](../_resources/Screenshot%202024-01-01%20at%201.04.05 PM.png)
 
 Pero las versiones mas viejas siguen disponibles, esto es por compatibilidad, proyectos mas viejos suelen necesitar versiones mas viejas.
 
-**descargar una version de matplotlib desinstala otra:** Tal como se dice, 
+**descargar una version de matplotlib desinstala otra:** Y eso si no usamos un ambiente virtual se vuelve inconveniencia.
 
 <span style="color: #3388bb">
 
